@@ -7,7 +7,7 @@ author:     gdlden
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - iOS
+    - blog
 ---
 
 ##导火索
