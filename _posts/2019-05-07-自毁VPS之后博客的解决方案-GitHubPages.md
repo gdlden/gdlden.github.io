@@ -7,18 +7,18 @@ author:     gdlden
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - blog
+    - Blog
 ---
 
-##导火索
+## 导火索
 
 今天感觉独立博客有点卡顿，想查找一下问题所在。于是一通`systemctl restart https`之后，Apache居然跑不起来。呜呜呜。可恶~
 
-##过程
+## 过程
 
 于是当然是痛下杀手，干掉VPS，重装系统。幸好是VPS而不是独服，速度很快。
 
-##结局
+## 结局
 
 悲催的是我忘了备份数据，之前写的好几十篇博文都丢掉了。
 
